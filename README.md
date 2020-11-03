@@ -2,9 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning AI, ML and Blockchain
-- 💬 Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 🌱 I’m currently learning Machine Learning and Blockchain
+- 💬 Ask me about anything related to Javascript/Python or ReactJS/Laravel/Flask
 - 📫 How to reach me: [@agielasyari](https://twitter.com/agielasyari11)
-- ⚡ Fun fact: I :heart: :dog:s
-
 
